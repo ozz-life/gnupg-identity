@@ -1,0 +1,10 @@
+GnuPG key attestation (identity statement)
+
+I, Stanislav Ozeransky <stanislav.ozeransky@gmail.com>, declare that the following GnuPG key
+belongs to me and should be used to verify my signatures.
+
+Fingerprint:
+21B3 BC50 F990 FD10 A118 1480 B530 31BB 8332 4E4B
+
+Date: 2025-12-16
+Contact: stanislav.ozeransky@gmail.com
